@@ -1,3 +1,5 @@
-# socialape-functions
+# Socialape
 
-A social media app in which you can post, comment, like screams(posts)
+//Under-Development
+
+A full stack social media app in which you can post(screams), comment, like on screams(posts) made with React and Firebase.
